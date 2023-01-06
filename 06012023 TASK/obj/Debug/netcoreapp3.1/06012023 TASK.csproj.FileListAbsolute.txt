@@ -1,0 +1,14 @@
+D:\Visual Studi Code Academy Lessons or\06012023 TASK\obj\Debug\netcoreapp3.1\06012023 TASK.csproj.AssemblyReference.cache
+D:\Visual Studi Code Academy Lessons or\06012023 TASK\obj\Debug\netcoreapp3.1\06012023 TASK.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studi Code Academy Lessons or\06012023 TASK\obj\Debug\netcoreapp3.1\06012023 TASK.AssemblyInfoInputs.cache
+D:\Visual Studi Code Academy Lessons or\06012023 TASK\obj\Debug\netcoreapp3.1\06012023 TASK.AssemblyInfo.cs
+D:\Visual Studi Code Academy Lessons or\06012023 TASK\obj\Debug\netcoreapp3.1\06012023 TASK.csproj.CoreCompileInputs.cache
+D:\Visual Studi Code Academy Lessons or\06012023 TASK\bin\Debug\netcoreapp3.1\06012023 TASK.exe
+D:\Visual Studi Code Academy Lessons or\06012023 TASK\bin\Debug\netcoreapp3.1\06012023 TASK.deps.json
+D:\Visual Studi Code Academy Lessons or\06012023 TASK\bin\Debug\netcoreapp3.1\06012023 TASK.runtimeconfig.json
+D:\Visual Studi Code Academy Lessons or\06012023 TASK\bin\Debug\netcoreapp3.1\06012023 TASK.runtimeconfig.dev.json
+D:\Visual Studi Code Academy Lessons or\06012023 TASK\bin\Debug\netcoreapp3.1\06012023 TASK.dll
+D:\Visual Studi Code Academy Lessons or\06012023 TASK\bin\Debug\netcoreapp3.1\06012023 TASK.pdb
+D:\Visual Studi Code Academy Lessons or\06012023 TASK\obj\Debug\netcoreapp3.1\06012023 TASK.dll
+D:\Visual Studi Code Academy Lessons or\06012023 TASK\obj\Debug\netcoreapp3.1\06012023 TASK.pdb
+D:\Visual Studi Code Academy Lessons or\06012023 TASK\obj\Debug\netcoreapp3.1\06012023 TASK.genruntimeconfig.cache
